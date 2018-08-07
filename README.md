@@ -73,7 +73,6 @@ if __name__ == "__main__":
     y = NALU(1)(x)
     m = Model(x, y)
     m.compile("adam", "mse")
-    m.fit(np.random.rand(128, 10), np.random.rand(128, 1), 
-          batch_size=128, epochs=2000)
+    m.fit(np.random.rand(128, 10), np.random.rand(128, 1), batch_size=128, epochs=2000)
           
 ~~~~
