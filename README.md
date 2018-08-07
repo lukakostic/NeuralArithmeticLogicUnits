@@ -1,5 +1,5 @@
 # NeuralArithmeticLogicUnits
-Implementation of arithmetic logic units for neural networks in python
+Implementation of arithmetic logic units for neural networks in python, keras framework.
 
 Copy from a reddit users "BadGoyWithAGun" pastebin:
  	
