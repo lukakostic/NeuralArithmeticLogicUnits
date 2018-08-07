@@ -5,7 +5,9 @@ From [this](https://arxiv.org/abs/1808.00508 "Neural Arithmetic Logic Units") pa
 
 Neural Arithmetic Logic Unit (NALU), by analogy to the arithmetic logic unit in traditional processors. Experiments show that NALU-enhanced neural networks can learn to track time, perform arithmetic over images of numbers, translate numerical language into real-valued scalars, execute computer code, and count objects in images. In contrast to conventional architectures, we obtain substantially better generalization both inside and outside of the range of numerical values encountered during training, often extrapolating orders of magnitude beyond trained numerical ranges. 
 
-Copy from a reddit users "BadGoyWithAGun" pastebin:
+Copy from a reddit users "BadGoyWithAGun" pastebin.
+
+Copy from below or the NALU.py file in repository
  	
 
 ~~~~
