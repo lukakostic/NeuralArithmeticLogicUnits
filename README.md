@@ -1,6 +1,6 @@
 # NeuralArithmeticLogicUnits
 Implementation of arithmetic logic units for neural networks in python
-Copy from a reddit users "BadGoyWithAGun" pastebin:
+Copy from a reddit users "BadGoyWithAGun" pastebin:`
 
 import numpy as np
 import keras.backend as K
@@ -65,3 +65,11 @@ if __name__ == "__main__":
     m.compile("adam", "mse")
     m.fit(np.random.rand(128, 10), np.random.rand(128, 1), 
           batch_size=128, epochs=2000)
+          
+          
+          
+          
+          
+          
+          
+`
