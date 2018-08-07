@@ -1,5 +1,6 @@
 # NeuralArithmeticLogicUnits
 Implementation of arithmetic logic units for neural networks in python
+
 Copy from a reddit users "BadGoyWithAGun" pastebin:
  	
 
@@ -69,9 +70,4 @@ if __name__ == "__main__":
     m.fit(np.random.rand(128, 10), np.random.rand(128, 1), 
           batch_size=128, epochs=2000)
           
-          
-          
-              
- 	
-
 ~~~~
